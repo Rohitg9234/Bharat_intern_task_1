@@ -115,7 +115,7 @@ pip install numpy pandas seaborn matplotlib scikit-learn xgboost
 
 ## Dataset
 
-The dataset used in this project can be downloaded from the [Kaggle House Prices dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). Make sure to place the dataset file (`train.csv`) in the appropriate directory.
+The dataset used in this project can be downloaded from the Kaggle House Prices dataset. Make sure to place the dataset file (`train.csv`) in the appropriate directory.
 
 ## Usage
 
